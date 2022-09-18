@@ -1,0 +1,1 @@
+![image info](../logo/logo_transparent.png)

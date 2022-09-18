@@ -1,3 +1,4 @@
+![image info](logo_transparent.png)
 # GTAJavaCloud
 Playground For cloud native applications  
 Look at [GTAJava.com](https://gtajava.com) for complete documentation on types of sample applications and live deployment on various cloud providers. Will be comparing these applications across multiple cloud providers.
