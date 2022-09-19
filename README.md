@@ -15,7 +15,7 @@ Look at [GTAJava.com](https://gtajava.com) for complete documentation on types o
 Serverless Application - This is a multitenant applicaiton which uses multiple cloud providers scaling capablities to search for matching jobs from different sources
 
 ```
-mvn clean package spring-boot:repackage
+mvn clean install spring-boot:repackage
 ```
 
 After the build check if the jar is working by 
