@@ -1,4 +1,4 @@
-![image info](../logo/logo.png)
+![image info](../logo_transparent.png)
 
 # Serverless Deployment
 
